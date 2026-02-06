@@ -1,6 +1,6 @@
 # Snippet-for-data-Fetch-Functionality
 
-##Below is an example of SQL code, a snippet used in one of the stored procedures I wrote as
+##This is an example of SQL code, a snippet used in one of the stored procedures I wrote as
 part of developing data-fetch functionality.
 
 ##Explanation of Code:
